@@ -1,0 +1,79 @@
+
+
+
+.one{
+    background-color:palegreen;
+    color: royalblue;
+}
+.two{
+    background-color:gray;
+    color: black;
+
+}
+.three{
+    background-color:orchid;
+    color: black;
+
+}
+.four{
+    background-color: darkmagenta;
+    color: black;
+}
+.five{
+    background-color:blueviolet;
+    color: black;
+}
+.six{
+     background-color:ivory;
+    color: black;
+}
+.seven{
+    background-color:blanchedalmond;
+    color: black;
+
+}
+
+.one:hover{
+    background-color:black;
+
+}
+
+.one:hover{
+    background-color:black;
+
+}
+
+.two:hover{
+    background-color:blanchedalmond;
+
+}
+
+.three:hover{
+    background-color:blanchedalmond;
+
+}
+
+.four:hover{
+    background-color:blanchedalmond;
+
+}
+
+.five:hover{
+    background-color: blanchedalmond;
+
+}
+
+.six:hover{
+    background-color:blanchedalmond;
+
+}
+
+.seven:hover{
+    background-color:blanchedalmond;
+
+}
+
+.a,:hover{
+    background-color:midnightblue;
+}
+
